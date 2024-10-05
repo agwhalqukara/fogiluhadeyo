@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://fogiluhadeyo.pages.dev/sitemap.xml
